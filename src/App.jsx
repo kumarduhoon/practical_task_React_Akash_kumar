@@ -1,14 +1,23 @@
 import React from 'react'
 import './App.css'
 import Register from './pages/userauth/register/Register'
+import Login from './pages/userauth/login/Login'
+import UserProflle from './pages/home/UserProflle'
+import CreatePost from "./pages/posts/CreatePost"
+import AllPost from './pages/posts/AllPost'
+import Header from './components/Header/Header'
 
 function App() {
 
 
   return (
     <>
-      <h1>React Js Test</h1>
-      <Register />
+      {/* <Login /> */}
+      {/* <Register /> */}
+      {/* <UserProflle /> */}
+      {/* <CreatePost /> */}
+      {/* <AllPost /> */}
+      <Header />
     </>
   )
 }

@@ -1,0 +1,32 @@
+.user_profile_outer-con {
+    max-width: 1260px;
+    margin: 10px auto 0px auto;
+}
+
+.user_profile_head-con {
+    margin: 5px;
+}
+
+.user_profile_head-text {
+    font-weight: bold;
+}
+
+.user_profile_image-details-con {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.user_profile_image-con {
+    width: 270px;
+    height: 270px;
+    background-color: gray;
+    border: darkgray;
+    border-radius: 50%;
+}
+
+.user_profile_image-text {
+    color: white;
+    margin-top: 120px;
+    margin-left: 100px;
+}

@@ -1,0 +1,58 @@
+.all-post-outer-con {
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+.all-post-title {
+    padding: 4px;
+    font-weight: 800;
+}
+
+.all-post-image-con {
+    width: 900px;
+    height: 500px;
+    background-color: ghostwhite;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+
+.all-post-content-con {
+    font-size: 18px;
+    font-style: normal;
+    padding-left: 4px;
+}
+
+.all-post-review-con {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.all-post-reviews {
+    padding: 2px 10px;
+}
+
+.reviews-likes {
+    padding-left: 4px;
+}
+
+.all-post-search-con {
+    border: 2px solid black;
+    position: sticky;
+    top: 0;
+    margin-top: 10px;
+}
+
+.all-post-search {
+    width: 800px;
+    height: 36px;
+    border: none;
+    outline: none;
+}
+
+.all-post-btn {
+    padding: 12px 26px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}

@@ -1,0 +1,42 @@
+.create-post-outer-con {
+    max-width: 1260px;
+    margin: 10px auto 0px auto;
+}
+
+.create-post-inner-con {
+    max-width: 500px;
+    margin: auto;
+}
+
+.create-post-sub-inner-con {
+    margin: 10px 5px;
+    padding: 5px;
+}
+
+.create-post-title {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.create-post-input-box-title {
+    width: 350px;
+    height: 35px;
+    outline: none;
+    border: 2px solid black;
+}
+
+.create-post-input-box-content {
+    width: 350px;
+    height: 200px;
+    outline: none;
+    border: 2px solid black;
+}
+
+.create-post-btn {
+    padding: 10px 25px;
+    color: black;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+}
