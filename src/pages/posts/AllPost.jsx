@@ -28,7 +28,7 @@ function AllPost() {
                         >search</button>
                 </div>
                 {
-                    data.length > 0 && data.map(function (item) {
+                    postData.length > 0 && postData.map(function (item) {
                         console.log(item)
                         return (<div>
                             <h3 className='all-post-title'>{item.title}</h3>
@@ -54,7 +54,7 @@ function AllPost() {
 export default AllPost
 
 
-const data = [
+const postData = [
     {
         title: "this is title ",
         image: "",

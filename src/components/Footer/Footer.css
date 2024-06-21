@@ -1,9 +1,9 @@
-.header-outer-con {
+.footer-outer-con {
     max-width: 100%;
-    background-color: antiquewhite;
+    background-color: grey;
 }
 
-.header-list {
+.footer-list {
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -11,7 +11,7 @@
     margin: 0px;
 }
 
-.header-list-item {
+.footer-list-item {
     list-style-type: none;
     padding: 10px 25px;
     color: black;
